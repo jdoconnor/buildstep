@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER progrium "progrium@gmail.com"
+MAINTAINER Belly "sysops@bellycard.com"
 
 RUN mkdir /build
 ADD ./stack/ /build
